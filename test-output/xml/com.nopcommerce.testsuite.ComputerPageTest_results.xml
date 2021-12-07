@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Regression Test"
+           tests="5"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="55.809">
+  <properties />
+  
+  
+            <testcase name="VerifyThatUserShouldBuildYouOwnComputerAndAddThemToCartSuccessfully" time="16.952" classname="com.nopcommerce.testsuite.ComputerPageTest" />
+                <testcase name="VerifyThatUserShouldBuildYouOwnComputerAndAddThemToCartSuccessfully" time="18.253" classname="com.nopcommerce.testsuite.ComputerPageTest" />
+                <testcase name="verifyUserShouldNavigateToDesktopsPageSuccessfully" time="1.505" classname="com.nopcommerce.testsuite.ComputerPageTest" />
+                <testcase name="VerifyThatUserShouldBuildYouOwnComputerAndAddThemToCartSuccessfully" time="18.048" classname="com.nopcommerce.testsuite.ComputerPageTest" />
+                <testcase name="verifyUserShouldNavigateToComputerPageSuccessfully" time="1.051" classname="com.nopcommerce.testsuite.ComputerPageTest" />
+      
+</testsuite>
